@@ -1,0 +1,17 @@
+header{
+  width:900px ;
+  height: 700px;
+  position:relative ;
+  left:100px ;
+  border: 1px solid black;
+  top:12px;
+
+}
+
+h1{
+  width:auto;
+  height: 50px;
+  top: 0;
+  text-align: center;
+  background: #FFC300 ;
+}
