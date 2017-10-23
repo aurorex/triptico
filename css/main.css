@@ -1,0 +1,45 @@
+header{
+  width:800px ;
+  height: 600px;
+  position:relative ;
+  left:100px ;
+  border: 1px solid black;
+  top:12px;
+
+}
+
+#title{
+  width:auto;
+  height: 50px;
+  text-align: center;
+  background: #FFC300 ;
+}
+p{
+  text-align: center;
+  padding-left: 5px;
+
+}
+
+
+
+.content{
+  display: inline-block;
+  width: 200px;
+  height:600px;
+  text-align: center;
+}
+.content_2{
+  display: inline-block;
+  width: 350px;
+  height: 600px;
+
+}
+h1{
+  text-align: center;
+}
+
+img{
+  width: 100px;
+  height: 100px;
+
+}
